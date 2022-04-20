@@ -1,0 +1,14 @@
+{
+  "name": "proyecto_web_service",
+  "version": "1.0.0",
+  "description": "Aplicación para crear tareas desplegada en Heroku usando NodeJS, Express, MongoDB y Vue",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Toro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
